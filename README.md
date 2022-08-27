@@ -1,7 +1,4 @@
-<h1 align="center" > Hi, I'm Katherine Domeq Gavilan </h1>
-<img src="
-
-
+<h1 align="center" > Hi, I'm Katherine Domeq Gavilan <br> <img height="200" width="200" src="https://github.com/KatherineDG/KatherineDG/blob/main/kikigifKatherneDG.gif"> </h1>
 <!--
 **KatherineDG/KatherineDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
