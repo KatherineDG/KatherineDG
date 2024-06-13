@@ -6,12 +6,10 @@
 
 <h2>🎮 Hobbies</h2>
 <p>Además de programar, tengo varias aficiones que me mantienen creativa y activa</p>
-hola
-jsa
 <ul>
   <li><p>Dibujar</p></li>
-  <li><p>Dibujar</p></li>
-  <li><p>Dibujar</p></li>
+  <li><p>Bailar</p></li>
+  <li><p>Jugar videojuegos</p></li>
 </ul>
 
 <!--
