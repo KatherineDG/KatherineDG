@@ -9,11 +9,9 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 
 <h2>🍨 Hobbies</h2>
 <p>Además de programar, tengo varias aficiones que me mantienen creativa y activa</p>
-<ul>
-  <li><p>Dibujar</p></li>
-  <li><p>Bailar</p></li>
-  <li><p>Jugar videojuegos</p></li>
-</ul>
+<p>♥ Bailar</p>
+<p>♥ Dibujar</p>
+<p>♥ Jugar videojuegos</p>
 
 <!--
 **KatherineDG/KatherineDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
