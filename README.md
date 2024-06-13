@@ -3,6 +3,12 @@
 
 <h2>📚 Educación</h2>
 <p>Ingenieria en Informática - Universidad Argentina de la Empresa (UADE)</p>
+
+<h2>🎮 Hobbies</h2>
+<p>Además de programar, tengo varias aficiones que me mantienen creativa y activa</p>
+<p>Dibujar</p>
+<p>Bailar</p>
+<p>Jugar videojuegos</p>
 <!--
 **KatherineDG/KatherineDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
