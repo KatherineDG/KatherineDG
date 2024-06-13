@@ -6,7 +6,7 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 
 
 <h2>🌷 Educación</h2>
-<p>♥ Ingenieria en Informática - Universidad Argentina de la Empresa (UADE)</p>
+<p>♥ Estudiante actual de Ingenieria en Informática - Universidad Argentina de la Empresa (UADE)</p>
 <p>♥ Codo a Codo 4.0 - Programa brindado por la Agencia de Aprendizaje de la Ciudad de Buenos Aires Argentina</p>
 
 <h2>🍨 Hobbies</h2>
