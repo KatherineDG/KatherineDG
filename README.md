@@ -1,13 +1,13 @@
 <h1 align="center" > Hi, I'm Katherine DG <br> <img height="200" width="200" src="https://github.com/KatherineDG/KatherineDG/blob/main/kikigifKatherneDG.gif"> </h1>
 
-<h2>👾 Proyectos</h2>
+<h2>🎀 Proyectos</h2>
 Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como desarrolladora.
 
-<h2>📚 Educación</h2>
+<h2>🌷 Educación</h2>
 <p>♥ Ingenieria en Informática - Universidad Argentina de la Empresa (UADE)</p>
 <p>♥ Codo a Codo 4.0 - Programa brindado por la Agencia de Aprendizaje de la Ciudad de Buenos Aires Argentina</p>
 
-<h2>🎮 Hobbies</h2>
+<h2>🍨 Hobbies</h2>
 <p>Además de programar, tengo varias aficiones que me mantienen creativa y activa</p>
 <ul>
   <li><p>Dibujar</p></li>
