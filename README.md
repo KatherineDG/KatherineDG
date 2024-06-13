@@ -1,5 +1,5 @@
 <h1 align="center" > Hi, I'm Katherine DG <br> <img height="200" width="200" src="https://github.com/KatherineDG/KatherineDG/blob/main/kikigifKatherneDG.gif"> </h1>
-![The Future is Now - Nightfall](https://github.com/KatherineDG/KatherineDG/assets/103223178/9705619a-1919-4495-b895-ed9e2524167e)
+<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/9705619a-1919-4495-b895-ed9e2524167e">
 
 <h2>🎀 Proyectos</h2>
 Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como desarrolladora.
