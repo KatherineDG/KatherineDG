@@ -6,6 +6,9 @@
 
 <h2>🎮 Hobbies</h2>
 <p>Además de programar, tengo varias aficiones que me mantienen creativa y activa</p>
+<ul>
+  <li><p>Dibujar</p></li>
+</ul>
 <p>Dibujar</p>
 <p>Bailar</p>
 <p>Jugar videojuegos</p>
