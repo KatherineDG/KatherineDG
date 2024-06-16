@@ -10,7 +10,7 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 <p>♥ Codo a Codo 4.0 - Programa brindado por la Agencia de Aprendizaje de la Ciudad de Buenos Aires Argentina</p>
 
 <h2>🍨 Hobbies</h2>
-<p>Además de programar, tengo varias aficiones que me mantienen creativa y activa</p>
+<p>Además de programar, tengo varios pasatiempos que me mantienen creativa y activa</p>
 <p>♥ Bailar</p>
 <p>♥ Dibujar</p>
 <p>♥ Jugar videojuegos</p>
