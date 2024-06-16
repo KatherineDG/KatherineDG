@@ -9,6 +9,9 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 <p>♥ Estudiante actual de Ingenieria en Informática - Universidad Argentina de la Empresa (UADE)</p>
 <p>♥ Codo a Codo 4.0 - Programa brindado por la Agencia de Aprendizaje de la Ciudad de Buenos Aires Argentina</p>
 
+<h2>🍄 Hard Skills</h2>
+
+
 <h2>🍨 Hobbies</h2>
 <p>Además de programar, tengo varios pasatiempos que me mantienen creativa y activa</p>
 <p>♥ Bailar</p>
