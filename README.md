@@ -9,7 +9,7 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 <p>♥ Estudiante actual de Ingenieria en Informática - Universidad Argentina de la Empresa (UADE)</p>
 <p>♥ Codo a Codo 4.0 - Programa brindado por la Agencia de Aprendizaje de la Ciudad de Buenos Aires Argentina</p>
 
-<h2>🍄 Hard Skills</h2>
+<h2>🍄 GitHub Status</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KatherineDG&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="KatherineDG"/></p>
 
