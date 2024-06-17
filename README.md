@@ -18,7 +18,7 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KatherineDG&theme=radical" alt="KatherineDG"/></p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <h2>🍨 Hobbies</h2>
 <p>Además de programar, tengo varios pasatiempos que me mantienen creativa y activa</p>
 <p>♥ Bailar</p>
