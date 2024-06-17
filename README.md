@@ -10,6 +10,7 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 <p>♥ Codo a Codo 4.0 - Programa brindado por la Agencia de Aprendizaje de la Ciudad de Buenos Aires Argentina</p>
 
 <h2>🍄 Hard Skills</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatherineDG)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>🍨 Hobbies</h2>
 <p>Además de programar, tengo varios pasatiempos que me mantienen creativa y activa</p>
