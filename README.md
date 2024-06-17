@@ -16,9 +16,13 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 <br><br><br><br><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KatherineDG&theme=radical" alt="KatherineDG"/></p>
+<p><img align="left" src="[https://github-readme-streak-stats.herokuapp.com/?user=KatherineDG&theme=radical](https://github.com/KatherineDG/KatherineDG/assets/103223178/aa0dd674-1ab9-427f-a4d7-ca7b6e999de2)" alt="KatherineDG"/></p>
 
 <br><br><br><br><br><br><br><br>
+
+<h2>Hard Skills</h2>
+<img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
+
 <h2>🍨 Hobbies</h2>
 <p>Además de programar, tengo varios pasatiempos que me mantienen creativa y activa</p>
 <p>♥ Bailar</p>
