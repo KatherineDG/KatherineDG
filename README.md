@@ -31,8 +31,10 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/172d002b-ce38-4d0f-b393-d7430db44c6f" width="100" height="100" alt="HTML" />
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/943fb435-259b-4655-bd7f-382bed75187c" width="100" height="100" alt="HTML" />
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/e573e82a-0156-4398-833a-efab63b06e1c" width="100" height="100" alt="HTML" />
-<img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="100" height="100" alt="HTML" />
-<img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="100" height="100" alt="HTML" />
+<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/cd8c6c28-7417-40e0-8c9b-cba412fc3256" width="100" height="100" alt="HTML" />
+<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/188fbc58-b195-41ca-a5f3-63f70fab7161" width="100" height="100" alt="HTML" />
+<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/29b73cc6-e9cf-478c-bed0-f90cc58e36c1" width="100" height="100" alt="HTML" />
+<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/1fc16253-8b40-417a-b7a3-edc4e2b3dffa" width="100" height="100" alt="HTML" />
 
 
 <h2>🍨 Hobbies</h2>
