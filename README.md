@@ -15,8 +15,8 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 
 <br><br><br><br><br><br><br>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KatherineDG&theme=radical" alt="KatherineDG"/></p>
 
-<p><img align="left" src="[https://github-readme-streak-stats.herokuapp.com/?user=KatherineDG&theme=radical](https://github.com/KatherineDG/KatherineDG/assets/103223178/aa0dd674-1ab9-427f-a4d7-ca7b6e999de2)" alt="KatherineDG"/></p>
 
 <br><br><br><br><br><br><br><br>
 
