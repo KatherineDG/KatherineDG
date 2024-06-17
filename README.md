@@ -10,7 +10,18 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 <p>♥ Codo a Codo 4.0 - Programa brindado por la Agencia de Aprendizaje de la Ciudad de Buenos Aires Argentina</p>
 
 <h2>🍄 Hard Skills</h2>
-
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <img src="[imagenes/imagen1.png](https://github.com/KatherineDG/KatherineDG/blob/main/kikigifKatherneDG.gif)" alt="Imagen 1" width="200"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="[imagenes/imagen2.png](https://github.com/KatherineDG/KatherineDG/blob/main/kikigifKatherneDG.gif)" alt="Imagen 2" width="200"/>
+  </div>
+  <div style="margin: 10px;">
+    <img src="[imagenes/imagen3.png](https://github.com/KatherineDG/KatherineDG/blob/main/kikigifKatherneDG.gif)" alt="Imagen 3" width="200"/>
+  </div>
+  <!-- Agrega más imágenes según sea necesario -->
+</div>
 
 <h2>🍨 Hobbies</h2>
 <p>Además de programar, tengo varios pasatiempos que me mantienen creativa y activa</p>
