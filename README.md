@@ -13,6 +13,7 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KatherineDG&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="KatherineDG" /></p>
 
+<br>
 <h2>🍨 Hobbies</h2>
 <p>Además de programar, tengo varios pasatiempos que me mantienen creativa y activa</p>
 <p>♥ Bailar</p>
