@@ -25,12 +25,12 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 <h3>Front Development</h3>
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/2d42386c-448a-4b7b-ae2b-59aedb02b784" width="100" height="100" alt="HTML" />
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/172d002b-ce38-4d0f-b393-d7430db44c6f" width="100" height="100" alt="HTML" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/903802e0-b4d7-43aa-bcda-12048681b371" width="100" height="100" alt="HTML" />
 
 <h3>Back Development</h3>
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/e573e82a-0156-4398-833a-efab63b06e1c" width="100" height="100" alt="HTML" />
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/943fb435-259b-4655-bd7f-382bed75187c" width="100" height="100" alt="HTML" />
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/9bc81809-ddd7-40ef-a7d8-9fc1d5cb1214" width="100" height="100" alt="JAVA" />
+<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/903802e0-b4d7-43aa-bcda-12048681b371" width="100" height="100" alt="HTML" />
 
 <h3>Frameworks and Libreries</h3>
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/aebf93c4-5ea1-477b-b45a-fe298cd87147" width="100" height="100" alt="REACTJS" />
