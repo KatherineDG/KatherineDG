@@ -36,6 +36,7 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/aebf93c4-5ea1-477b-b45a-fe298cd87147" width="100" height="100" alt="REACTJS" />
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/cd8c6c28-7417-40e0-8c9b-cba412fc3256" width="100" height="100" alt="HTML" />
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/2a938006-db33-41e1-8074-22668e11de77" width="100" height="100" alt="EXPRESS" />
+<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/c971563c-68ea-433d-a8a0-17ca060092f9" width="100" height="100" alt="EXPRESS" />
 
 <h3>Databases</h3>
 <img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/188fbc58-b195-41ca-a5f3-63f70fab7161" width="100" height="100" alt="HTML" />
