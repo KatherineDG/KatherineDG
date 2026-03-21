@@ -1,13 +1,10 @@
 <h1 align="center" > Hi, I'm Katherine DG <br> <img height="200" width="200" src="https://github.com/KatherineDG/KatherineDG/blob/main/kikigifKatherneDG.gif"> </h1>
 <!--<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/9705619a-1919-4495-b895-ed9e2524167e">-->
 
-<h2>🎀 Proyectos</h2>
-Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como desarrolladora.
+💻 Estudiante avanzada de Ingeniería en Informática  
+🚀 Apasionada por el desarrollo de sofware con impacto real en el usuario  
+📍 Argentina  
 
-
-<h2>🌷 Educación</h2>
-<p>♥ Estudiante actual de Ingenieria en Informática - Universidad Argentina de la Empresa (UADE)</p>
-<p>♥ Codo a Codo 4.0 - Programa brindado por la Agencia de Aprendizaje de la Ciudad de Buenos Aires Argentina</p>
 
 <h2>🍄 GitHub Status</h2>
 
@@ -20,30 +17,29 @@ Disfruto en hacer proyectos que me permitan seguir aprendiendo y crecer como des
 
 <h2>🍥 Hard Skills</h2>
 
-<h3>Front Development</h3>
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/2d42386c-448a-4b7b-ae2b-59aedb02b784" width="100" height="100" alt="HTML" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/172d002b-ce38-4d0f-b393-d7430db44c6f" width="100" height="100" alt="HTML" />
+<img width="200" height="32" alt="html" src="https://github.com/user-attachments/assets/f6f9b664-11a0-4848-8b4b-fdd450ff8230" />
+<img width="200" height="32" alt="css" src="https://github.com/user-attachments/assets/ff30dba1-cc60-4df8-968c-f11b08d25500" />
+<img width="200" height="32" alt="js" src="https://github.com/user-attachments/assets/998f9fb2-4b12-42a9-8749-11a008c2773d" />
+<img width="200" height="32" alt="typescript" src="https://github.com/user-attachments/assets/04dba563-5b78-43ee-862e-8f9ced885383" />
+<img width="200" height="32" alt="angular" src="https://github.com/user-attachments/assets/702743c4-bcc1-43ca-9a14-54653c31733c" />
+<img width="200" height="32" alt="react" src="https://github.com/user-attachments/assets/b5042d14-e058-48dd-8783-35ab92b01ac1" />
+<img width="200" height="32" alt="nextjs" src="https://github.com/user-attachments/assets/278b5b53-f676-4dd1-97df-45e920abb039" />
+<img width="200" height="32" alt="nodejs" src="https://github.com/user-attachments/assets/65f542ee-2999-4d85-b439-19b98214ad95" />
+<img width="200" height="32" alt="python" src="https://github.com/user-attachments/assets/e97ae8fc-8ee1-4d54-8a4c-8c6b1275415a" />
+<img width="200" height="32" alt="java" src="https://github.com/user-attachments/assets/361757ff-ae1b-4901-8261-87d45d6290b4" />
+<img width="200" height="32" alt="express" src="https://github.com/user-attachments/assets/4a74affb-6c30-4ae6-af1e-15708abf73ef" />
+<img width="200" height="32" alt="flask" src="https://github.com/user-attachments/assets/049dabb9-c1a6-4db1-96ee-e73b1c9b1d4d" />
+<img width="200" height="32" alt="django" src="https://github.com/user-attachments/assets/03d14389-460c-480d-ba81-14fb88abee30" />
+<img width="200" height="32" alt="springboot" src="https://github.com/user-attachments/assets/0ea1c202-b4d6-48bb-9a88-9eca74661c7a" />
+<img width="200" height="32" alt="postgresql" src="https://github.com/user-attachments/assets/4418bdb8-b231-4a60-9a0b-82f6de372978" />
+<img width="200" height="32" alt="mongodb" src="https://github.com/user-attachments/assets/deea5eb6-0a98-4718-811b-f69c4f364249" />
+<img width="200" height="32" alt="mysql" src="https://github.com/user-attachments/assets/34402c1c-2123-45d2-b709-79ac22f2efc7" />
+<img width="200" height="32" alt="sqlserver" src="https://github.com/user-attachments/assets/9381fc43-ef5c-4b94-97bd-e3119491c910" />
+<img width="200" height="32" alt="redis" src="https://github.com/user-attachments/assets/729efb1f-d645-4d23-9913-10d1b0cb8836" />
+<img width="200" height="32" alt="prisma" src="https://github.com/user-attachments/assets/c494f8a7-b2b5-4491-9f45-6393be68dbb0" />
+<img width="200" height="32" alt="mongoose" src="https://github.com/user-attachments/assets/91d8ce7b-e928-4543-a816-7254548e28be" />
+<img width="200" height="32" alt="dockercompose" src="https://github.com/user-attachments/assets/4f11e59d-b226-4ed6-a79f-2554685710d5" />
 
-<h3>Back Development</h3>
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/e573e82a-0156-4398-833a-efab63b06e1c" width="100" height="100" alt="HTML" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/943fb435-259b-4655-bd7f-382bed75187c" width="100" height="100" alt="HTML" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/9bc81809-ddd7-40ef-a7d8-9fc1d5cb1214" width="100" height="100" alt="JAVA" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/903802e0-b4d7-43aa-bcda-12048681b371" width="100" height="100" alt="HTML" />
-
-<h3>Frameworks and Libreries</h3>
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/aebf93c4-5ea1-477b-b45a-fe298cd87147" width="100" height="100" alt="REACTJS" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/cd8c6c28-7417-40e0-8c9b-cba412fc3256" width="100" height="100" alt="HTML" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/2a938006-db33-41e1-8074-22668e11de77" width="100" height="100" alt="EXPRESS" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/c971563c-68ea-433d-a8a0-17ca060092f9" width="100" height="100" alt="EXPRESS" />
-
-<h3>Databases</h3>
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/188fbc58-b195-41ca-a5f3-63f70fab7161" width="100" height="100" alt="HTML" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/839c09e9-8669-4247-987d-ac5bb2dbb128" width="100" height="100" alt="HTML" />
-
-<h3>Tools</h3>
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/29b73cc6-e9cf-478c-bed0-f90cc58e36c1" width="100" height="100" alt="HTML" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/1fc16253-8b40-417a-b7a3-edc4e2b3dffa" width="100" height="100" alt="HTML" />
-<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/d69a1981-3ba9-42f8-8acc-42bcfb4c2dc5" width="100" height="100" alt="HTML" />
 
 <h2>🍨 Hobbies</h2>
 <p>Además de programar, tengo varios pasatiempos que me mantienen creativa y activa</p>
