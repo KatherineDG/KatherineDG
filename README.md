@@ -1,22 +1,21 @@
-<h1 align="center" > Hi, I'm Katherine DG <br> <img height="200" width="200" src="https://github.com/KatherineDG/KatherineDG/blob/main/kikigifKatherneDG.gif"> </h1>
-<!--<img src="https://github.com/KatherineDG/KatherineDG/assets/103223178/9705619a-1919-4495-b895-ed9e2524167e">-->
+<img width="1184" height="322" alt="banner" src="https://github.com/user-attachments/assets/11d2bc59-025c-4773-a0eb-248848addae1" />
+<h1 align="center" > Hi, I'm Katherine ✨ </h1>
 
-💻 Estudiante avanzada de Ingeniería en Informática  
-🚀 Apasionada por el desarrollo de sofware con impacto real en el usuario  
-📍 Argentina  
+<p align="center"><b>Estudiante de Ingeniería en Informática</b></p>
+<p align="center">Fullstack Developer • UX/UI</p>
+<hr>
+<h2>💗 Sobre mí</h2>
+<p>Mi enfoque se centra en construir puentes entre el código robusto y una experiencia de usuario excepcional. Como <b>Fullstack Developer</b> con pasión por el <b>UX/UI</b>, no solo desarrollo aplicaciones, sino que <b>diseño soluciones pensadas para el impacto real para los usuarios</b>. Me encanta enfrentar desafíos lógicos en el backend sin descuidar la estética y la usabilidad en el frontend.</p>
+<br>
+<h2>💗 GitHub Status</h2>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KatherineDG&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="KatherineDG"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KatherineDG&theme=radical" alt="KatherineDG"/>
+<p>✨</p>
 
+<br><br><br><br>
+<br><br><br><br>
 
-<h2>🍄 GitHub Status</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KatherineDG&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="KatherineDG"/></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KatherineDG&theme=radical" alt="KatherineDG"/></p>
-
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
-
-<h2>🍥 Hard Skills</h2>
-
+<h2>💗 Stack Tecnológico</h2>
 <img width="200" height="32" alt="html" src="https://github.com/user-attachments/assets/f6f9b664-11a0-4848-8b4b-fdd450ff8230" />
 <img width="200" height="32" alt="css" src="https://github.com/user-attachments/assets/ff30dba1-cc60-4df8-968c-f11b08d25500" />
 <img width="200" height="32" alt="js" src="https://github.com/user-attachments/assets/998f9fb2-4b12-42a9-8749-11a008c2773d" />
@@ -39,25 +38,6 @@
 <img width="200" height="32" alt="prisma" src="https://github.com/user-attachments/assets/c494f8a7-b2b5-4491-9f45-6393be68dbb0" />
 <img width="200" height="32" alt="mongoose" src="https://github.com/user-attachments/assets/91d8ce7b-e928-4543-a816-7254548e28be" />
 <img width="200" height="32" alt="dockercompose" src="https://github.com/user-attachments/assets/4f11e59d-b226-4ed6-a79f-2554685710d5" />
-
-
-<h2>🍨 Hobbies</h2>
-<p>Además de programar, tengo varios pasatiempos que me mantienen creativa y activa</p>
-<p>♥ Bailar</p>
-<p>♥ Dibujar</p>
-<p>♥ Jugar videojuegos</p>
-
-<!--
-**KatherineDG/KatherineDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h2>💗 Hobbies</h2>
+<p>Cuando no estoy "codeando", me vas a encontrar dibujando, bailando o jugando videojuegos. :)</p>
