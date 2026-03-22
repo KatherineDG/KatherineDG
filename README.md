@@ -11,7 +11,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KatherineDG&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="KatherineDG"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KatherineDG&theme=radical" alt="KatherineDG"/>
 <br>
-<br>
 <h2>💗 Stack Tecnológico</h2>
 <img width="200" height="32" alt="html" src="https://github.com/user-attachments/assets/f6f9b664-11a0-4848-8b4b-fdd450ff8230" />
 <img width="200" height="32" alt="css" src="https://github.com/user-attachments/assets/ff30dba1-cc60-4df8-968c-f11b08d25500" />
