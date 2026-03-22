@@ -38,5 +38,6 @@
 <img width="200" height="32" alt="mongoose" src="https://github.com/user-attachments/assets/91d8ce7b-e928-4543-a816-7254548e28be" />
 <img width="200" height="32" alt="dockercompose" src="https://github.com/user-attachments/assets/4f11e59d-b226-4ed6-a79f-2554685710d5" />
 <br>
+<br>
 <h2>💗 Hobbies</h2>
 <p>Cuando no estoy "codeando", me vas a encontrar dibujando, bailando o jugando videojuegos. :)</p>
