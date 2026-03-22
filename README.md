@@ -1,7 +1,7 @@
 <img width="1184" height="322" alt="banner" src="https://github.com/user-attachments/assets/11d2bc59-025c-4773-a0eb-248848addae1" />
 <h1 align="center" > Hi, I'm Katherine ✨ </h1>
 
-<p align="center"><b>Estudiante de Ingeniería en Informática</b></p>
+<p align="center"><b>Estudiante avanzada de Ingeniería en Informática</b></p>
 <p align="center">Fullstack Developer • UX/UI</p>
 <div align="center">
   <img width="314" height="51" alt="CREATE-AND-BUILD-22-3-2026" src="https://github.com/user-attachments/assets/9f207f80-f6bd-4a5d-926a-61cb1eef8c5c" />
