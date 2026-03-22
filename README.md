@@ -3,6 +3,9 @@
 
 <p align="center"><b>Estudiante de Ingeniería en Informática</b></p>
 <p align="center">Fullstack Developer • UX/UI</p>
+<div align="center">
+  <img width="314" height="51" alt="CREATE-AND-BUILD-22-3-2026" src="https://github.com/user-attachments/assets/9f207f80-f6bd-4a5d-926a-61cb1eef8c5c" />
+</div>
 <hr>
 <h2>💗 Sobre mí</h2>
 <p>Mi enfoque se centra en construir puentes entre el código robusto y una experiencia de usuario excepcional. Como <b>Fullstack Developer</b> con pasión por el <b>UX/UI</b>, no solo desarrollo aplicaciones, sino que <b>diseño soluciones pensadas para el impacto real para los usuarios</b>. Me encanta enfrentar desafíos lógicos en el backend sin descuidar la estética y la usabilidad en el frontend.</p>
