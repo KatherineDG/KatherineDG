@@ -8,8 +8,10 @@
 <p>Mi enfoque se centra en construir puentes entre el código robusto y una experiencia de usuario excepcional. Como <b>Fullstack Developer</b> con pasión por el <b>UX/UI</b>, no solo desarrollo aplicaciones, sino que <b>diseño soluciones pensadas para el impacto real para los usuarios</b>. Me encanta enfrentar desafíos lógicos en el backend sin descuidar la estética y la usabilidad en el frontend.</p>
 <br>
 <h2>💗 GitHub Status</h2>
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KatherineDG&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="KatherineDG"/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KatherineDG&theme=radical" alt="KatherineDG"/>
+</div>
 <br><br><br><br><br>
 <h2>💗 Stack Tecnológico</h2>
 <img width="200" height="32" alt="html" src="https://github.com/user-attachments/assets/f6f9b664-11a0-4848-8b4b-fdd450ff8230" />
